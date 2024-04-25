@@ -4,7 +4,7 @@
 #
 Name     : R-lobstr
 Version  : 1.1.2
-Release  : 11
+Release  : 12
 URL      : https://cran.r-project.org/src/contrib/lobstr_1.1.2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/lobstr_1.1.2.tar.gz
 Summary  : Visualize R Data Structures with Trees
